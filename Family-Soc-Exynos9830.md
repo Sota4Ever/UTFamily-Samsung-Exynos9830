@@ -13,7 +13,7 @@ Storage | 128GB / 256GB / 512GB (UFS 3.0)
 MicroSD | Up to 256 GB
 Battery | Li-Ion 4000/4500/5000 mAh
 Dimensions | 159,8 mm x 74,5 mm x 8,4 mm
-Display | 2400 x 1080 pixel - 1440 x 3200 pixel
+Display | 1080 x 2400 pixel - 1440 x 3200 pixel
 Rear Camera  | 12 MP, f/1.8, 26mm (wide), 8 MP, f/2.4, 76mm (telephoto), 12 MP, f/2.2, 13mm, 120˚ (ultrawide), LED flash, auto-HDR, panorama - 108 MP, f/1.8, 26mm (wide), 1/1.33", 0.8µm, PDAF, OIS 48 MP, f/3.5, 103mm (periscope telephoto), 1/2.0", 0.8µm, PDAF, OIS, 4x optical zoom, 10x hybrid zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55" 1.4µm, Super Steady video 0.3 MP, TOF 3D, f/1.0, (depth)
 Front Camera | 10/32/40 MP, f/2.2, 26mm, HDR
 Release Date | 06 March - 02 October 2020
@@ -56,14 +56,14 @@ ________
 | USB Device Mode            |                                                                |  ❔   |
 | USB Power Delivery         |                                                                |  ❔   |
 | Charging                   |                                                                |  ❔   |
-| WLAN                       | Usually sometimes does not detect.                             |  ❔   |
+| WLAN                       |					                              |  ❔   |
 | CPU                        |                                                                |  ❔   |
 | Touchscreen                |                                                                |  ❔   |
 | Audio (Speakers/Microphone)|                                                                |  ❔   |
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
-| Camera (Photos/QR/Video)   | Can't take photos/videos and QR reading works                  |  ❔   |
+| Camera (Photos/QR/Video)   |						                      |  ❔   |
 | Mobile Data                |                                                                |  ❔   |
 | Hotspot                    |                                                                |  ❔   |
 | Airplane Mode              |                                                                |  ❔   |
@@ -71,7 +71,7 @@ ________
 | Vibration                  |                                                                |  ❔   |
 | Waydroid                   |                                                                |  ❔   |
 | Double Tap to Wake         |                                                                |  ❔   |
-| SSH                        | You have to do it manually                                     |  ❔   |
+| SSH                        | 				                                      |  ❔   |
 | Virtualization             |                                                                |  ❔   |
 | Automatic brightness       |                                                                |  ❔   |
 
@@ -239,13 +239,13 @@ ________
 | USB Device Mode            |                                                                |  ❔   |
 | USB Power Delivery         |                                                                |  ❔   |
 | Charging                   |                                                                |  ❔   |
-| WLAN                       | Usually sometimes does not detect.                             |  ❔   |
+| WLAN                       |					                              |  ❔   |
 | CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                  
+| Touchscreen                |                                                                |  ❔   |
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
-| Camera (Photos/QR/Video)   | Can't take photos/videos and QR reading works                  |  ❔   |
+| Camera (Photos/QR/Video)   |						                      |  ❔   |
 | Mobile Data                |                                                                |  ❔   |
 | Hotspot                    |                                                                |  ❔   |
 | Airplane Mode              |                                                                |  ❔   |
@@ -253,7 +253,7 @@ ________
 | Vibration                  |                                                                |  ❔   |
 | Waydroid                   |                                                                |  ❔   |
 | Double Tap to Wake         |                                                                |  ❔   |
-| SSH                        | You have to do it manually                                     |  ❔   |
+| SSH                        |				                                      |  ❔   |
 | Virtualization             |                                                                |  ❔   |
 | Automatic brightness       |                                                                |  ❔   |
 
@@ -299,13 +299,13 @@ ________
 | USB Device Mode            |                                                                |  ❔   |
 | USB Power Delivery         |                                                                |  ❔   |
 | Charging                   |                                                                |  ❔   |
-| WLAN                       | Usually sometimes does not detect.                             |  ❔   |
+| WLAN                       |					                              |  ❔   |
 | CPU                        |                                                                |  ❔   |
 | Touchscreen                |                                                                |  ❔   |
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
-| Camera (Photos/QR/Video)   | Can't take photos/videos and QR reading works                  |  ❔   |
+| Camera (Photos/QR/Video)   |						                      |  ❔   |
 | Mobile Data                |                                                                |  ❔   |
 | Hotspot                    |                                                                |  ❔   |
 | Airplane Mode              |                                                                |  ❔   |
@@ -313,7 +313,7 @@ ________
 | Vibration                  |                                                                |  ❔   |
 | Waydroid                   |                                                                |  ❔   |
 | Double Tap to Wake         |                                                                |  ❔   |
-| SSH                        | You have to do it manually                                     |  ❔   |
+| SSH                        | 				                                      |  ❔   |
 | Virtualization             |                                                                |  ❔   |
 | Automatic brightness       |                                                                |  ❔   |
 
@@ -359,13 +359,13 @@ ________
 | USB Device Mode            |                                                                |  ❔   |
 | USB Power Delivery         |                                                                |  ❔   |
 | Charging                   |                                                                |  ❔   |
-| WLAN                       | Usually sometimes does not detect.                             |  ❔   |
+| WLAN                       |					                              |  ❔   |
 | CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                  
+| Touchscreen                |                                                                |  ❔   |
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
-| Camera (Photos/QR/Video)   | Can't take photos/videos and QR reading works                  |  ❔   |
+| Camera (Photos/QR/Video)   |						                      |  ❔   |
 | Mobile Data                |                                                                |  ❔   |
 | Hotspot                    |                                                                |  ❔   |
 | Airplane Mode              |                                                                |  ❔   |
@@ -373,7 +373,7 @@ ________
 | Vibration                  |                                                                |  ❔   |
 | Waydroid                   |                                                                |  ❔   |
 | Double Tap to Wake         |                                                                |  ❔   |
-| SSH                        | You have to do it manually                                     |  ❔   |
+| SSH                        |				                                      |  ❔   |
 | Virtualization             |                                                                |  ❔   |
 | Automatic brightness       |                                                                |  ❔   |
 
@@ -438,13 +438,13 @@ ________
 | USB Device Mode            |                                                                |  ❔   |
 | USB Power Delivery         |                                                                |  ❔   |
 | Charging                   |                                                                |  ❔   |
-| WLAN                       | Usually sometimes does not detect.                             |  ❔   |
+| WLAN                       |					                              |  ❔   |
 | CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                  
+| Touchscreen                |                                                                |  ❔   | 
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
-| Camera (Photos/QR/Video)   | Can't take photos/videos and QR reading works                  |  ❔   |
+| Camera (Photos/QR/Video)   |						                      |  ❔   |
 | Mobile Data                |                                                                |  ❔   |
 | Hotspot                    |                                                                |  ❔   |
 | Airplane Mode              |                                                                |  ❔   |
@@ -452,7 +452,7 @@ ________
 | Vibration                  |                                                                |  ❔   |
 | Waydroid                   |                                                                |  ❔   |
 | Double Tap to Wake         |                                                                |  ❔   |
-| SSH                        | You have to do it manually                                     |  ❔   |
+| SSH                        |				                                      |  ❔   |
 | Virtualization             |                                                                |  ❔   |
 | Automatic brightness       |                                                                |  ❔   |
 
@@ -559,13 +559,13 @@ ________
 | USB Device Mode            |                                                                |  ❔   |
 | USB Power Delivery         |                                                                |  ❔   |
 | Charging                   |                                                                |  ❔   |
-| WLAN                       | Usually sometimes does not detect.                             |  ❔   |
+| WLAN                       |					                              |  ❔   |
 | CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                  
+| Touchscreen                |                                                                |  ❔   | 
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
-| Camera (Photos/QR/Video)   | Can't take photos/videos and QR reading works                  |  ❔   |
+| Camera (Photos/QR/Video)   |						                      |  ❔   |
 | Mobile Data                |                                                                |  ❔   |
 | Hotspot                    |                                                                |  ❔   |
 | Airplane Mode              |                                                                |  ❔   |
@@ -573,7 +573,7 @@ ________
 | Vibration                  |                                                                |  ❔   |
 | Waydroid                   |                                                                |  ❔   |
 | Double Tap to Wake         |                                                                |  ❔   |
-| SSH                        | You have to do it manually                                     |  ❔   |
+| SSH                        |				                                      |  ❔   |
 | Virtualization             |                                                                |  ❔   |
 | Automatic brightness       |                                                                |  ❔   |
 
@@ -619,13 +619,13 @@ ________
 | USB Device Mode            |                                                                |  ❔   |
 | USB Power Delivery         |                                                                |  ❔   |
 | Charging                   |                                                                |  ❔   |
-| WLAN                       | Usually sometimes does not detect.                             |  ❔   |
+| WLAN                       |					                              |  ❔   |
 | CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                  
+| Touchscreen                |                                                                |  ❔   |
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
-| Camera (Photos/QR/Video)   | Can't take photos/videos and QR reading works                  |  ❔   |
+| Camera (Photos/QR/Video)   |						                      |  ❔   |
 | Mobile Data                |                                                                |  ❔   |
 | Hotspot                    |                                                                |  ❔   |
 | Airplane Mode              |                                                                |  ❔   |
@@ -633,7 +633,7 @@ ________
 | Vibration                  |                                                                |  ❔   |
 | Waydroid                   |                                                                |  ❔   |
 | Double Tap to Wake         |                                                                |  ❔   |
-| SSH                        | You have to do it manually                                     |  ❔   |
+| SSH                        |				                                      |  ❔   |
 | Virtualization             |                                                                |  ❔   |
 | Automatic brightness       |                                                                |  ❔   |
 

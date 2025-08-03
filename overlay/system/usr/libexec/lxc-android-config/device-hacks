@@ -8,6 +8,6 @@
 # by overlaying device-hacks.service.d/device-specific-settings.conf or the
 # device-hacks.service file itself.
 
-bash /usr/libexec/lxc-android-config/device-hacks.d/flashlight_permission.sh
+chown phablet /sys/devices/virtual/camera/flash/rear_flash
 
 bash /usr/libexec/lxc-android-config/device-hacks.d/aidl_power.sh

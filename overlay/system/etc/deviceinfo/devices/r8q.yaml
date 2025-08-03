@@ -1,11 +1,11 @@
-x1s:
+r8s:
   Vendor: Samsung
-  Codename: x1s
+  Codename: r8q
   Names:
-    - S20 5G
-    - x1s
-    - Samsung S20 5G
-  PrettyName: Samsung Galaxy S20 5G
+    - S20 FE 5G
+    - r8q
+    - Samsung S20 FE 5G
+  PrettyName: Samsung Galaxy S20 FE 5G
   DeviceType: phone
   GridUnit: 21
   PrimaryOrientation:

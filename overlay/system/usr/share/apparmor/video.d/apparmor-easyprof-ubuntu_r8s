@@ -1,3 +1,0 @@
-# Placeholder to be bind mounted over from the Android device tarball
-/{android/,}vendor/firmware/mfc_fw.bin  r,
-/{android/,}vendor/firmware/is_mcu_fw.bin  r,

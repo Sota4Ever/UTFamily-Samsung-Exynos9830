@@ -178,7 +178,7 @@ ________
 | USB Device Mode            |                                                                |  ✅   |
 | USB Power Delivery         |                                                                |  ✅   |
 | Charging                   |                                                                |  ✅   |
-| WLAN                       | Usually sometimes does not detect.                             |  ⚠️    |
+| WLAN                       | Usually sometimes does not detect (qualcomm driver issues)     |  ⚠️    |
 | CPU                        |                                                                |  ✅   |
 | Touchscreen                |                                                                |  ✅   |
 | Audio (Speakers/Microphone)|                                                                |  ✅   |
@@ -194,7 +194,7 @@ ________
 | Waydroid                   |                                                                |  ✅   |
 | Double Tap to Wake         |                                                                |  ❌   |
 | SSH                        | You have to do it manually                                     |  ✅   |
-| Virtualization             |                                                                |  ❔   |
+| Virtualization             |                                                                |  ❌   |
 | Automatic brightness       |                                                                |  ✅   |
 
 </td></tr> </table>
@@ -491,12 +491,12 @@ ________
 | Compass Sensor             |                                                                |  ✅   |
 | Gyroscope Sensor           |                                                                |  ✅   |
 | Rotation                   |                                                                |  ✅   |
-| Fingerprint Sensor         |                                                                |  ❔   |
+| Fingerprint Sensor         |                                                                |  ❌   |
 | Temperature Sensor         |                                                                |  ✅   |
 | Battery                    |                                                                |  ✅   |
 | USB Host Mode              |                                                                |  ✅   |
 | USB Device Mode            |                                                                |  ✅   |
-| USB Power Delivery         |                                                                |  ❔   |
+| USB Power Delivery         |                                                                |  ✅   |
 | Charging                   |                                                                |  ✅   |
 | WLAN                       |                                                                |  ✅   |
 | CPU                        |                                                                |  ✅   |
@@ -513,8 +513,8 @@ ________
 | Vibration                  |                                                                |  ✅   |
 | Waydroid                   |                                                                |  ✅   |
 | Double Tap to Wake         |                                                                |  ❌   |
-| SSH                        | You have to do it manually                                     |  ❔   |
-| Virtualization             |                                                                |  ❔   |
+| SSH                        | You have to do it manually                                     |  ✅   |
+| Virtualization             |                                                                |  ❌   |
 | Automatic brightness       |                                                                |  ✅   |
 
 </td></tr> </table>
